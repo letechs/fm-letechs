@@ -1,0 +1,14 @@
+.home-btn{
+    background-color: black;
+    text-align: center;
+}
+.home-btn1,
+.home-btn2,
+.home-btn3{
+margin: 20px;
+padding: 20px;
+justify-content: center;
+text-align: center;
+font-size: 25px;
+border-bottom-width: 5px;
+}

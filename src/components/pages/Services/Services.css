@@ -1,0 +1,22 @@
+.HCource{
+    background:linear-gradient(0deg, rgba(0, 255, 255, 0.6), rgba(0, 0, 0, 0.6)),  url('../../../assets/service-bg.jpg');
+    background-position: left;
+    margin-top: -20px;
+    padding-top: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+ .belevel{background:url('../../../assets/service-bg.jpg') no-repeat bottom fixed;
+  background-size: cover;}
+  .adlevel{background:url('../../../assets/service-bg1.jpg') no-repeat bottom fixed;
+  background-size: cover;}
+ .prolevel{background:url('../../../assets/service-bg2.jpg') no-repeat bottom fixed;
+      background-size: cover;}
+ 
+ .card-heater{
+  background-color: rgba(255, 255, 255, 0.1);
+ }
+ li {
+margin: 20px ;
+ }
